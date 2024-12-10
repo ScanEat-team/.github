@@ -9,8 +9,8 @@ ScanEat is a web-based app designed to help consumers make the best nutritional 
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :------------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | Amanda Fharadita Olivia Rakhmad| M180B4KX0452  |  Machine Learning  | Project Manager, Machine Learning Engineer |[LinkedIn](https://www.linkedin.com/in/amandarakhmad/) or [Github](https://github.com/amandarakhmad) |
-| I Putu Aditya Cahya Milano | C113B4KY1869  |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/) |
-| Muhammad Noor Abdi Ash Shafary | C467B4KY2972 |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/) |
+| I Putu Aditya Cahya Milano | C113B4KY1869  |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/AditMilano) |
+| Muhammad Noor Abdi Ash Shafary | C467B4KY2972 |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/aditmilano/) or [Github](https://github.com/) |
 |  Eric Armando | C204B4KY1268  |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/) |
 | Andrew Haposan Indrajaya | C008B4KY0527  |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/) |
 
