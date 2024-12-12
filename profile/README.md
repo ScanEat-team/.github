@@ -35,7 +35,7 @@ ScanEat is a web-based app designed to help consumers make the best nutritional 
 ## Deployment Link Website
 
 Web ScanEat :<br>
-[Webset](https://scaneats-website-421390099984.asia-southeast2.run.app/index.html)
+[Website](https://scaneats-website-421390099984.asia-southeast2.run.app/index.html)
 
 ---
 
