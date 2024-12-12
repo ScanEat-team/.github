@@ -15,11 +15,17 @@ ScanEat is a web-based app designed to help consumers make the best nutritional 
 | Andrew Haposan Indrajaya | C008B4KY0527  |  Cloud Computing  |  |[LinkedIn](https://www.linkedin.com/in/) or [Github](https://github.com/) |
 
 
+---
+# Tech Stack
 
-
-<p align="left" > Team C242-PR635 <br> Capstone Project for Bangkit 2024 Batch 2 </p>
+| Learning Path      | Tech                                                                                                             | Link Repository                                                       |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
+| Machine Learning   | Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV                                   | **[LINK](https://github.com/ScanEat-team/ml-deliverables.git)**                |
+| Cloud Computing    | Node, NPM, JavaScript, Cloud Run, Firebase, Tensorflow JS, FastAPI, Python, Postman                                | **[LINK](https://github.com/ScanEat-team/ScanEat-backend-cc.git)** **[LINK](https://github.com/ScanEat-team/ScanEat-ml-server.git)**               |
+| Website            | HTML5, CSS, JavaScript, Express                                                         | **[LINK](https://github.com/ScanEat-team/ScanEat-website.git)**             |
 
 ---
+
 ## UI/UX Design
 
 - Link Prototype Design : [Prototype](https://www.figma.com/design/j9dcfgEwXPNj7ceYi59o7b/Capstone-Design?node-id=473-282&t=bR4aZisyNGUu5y2v-1)
@@ -44,3 +50,8 @@ Web ScanEat :<br>
   <img src="https://i.postimg.cc/Th8NFNLc/Kampus-Merdeka-MASTER.png" height="80" alt="kampus merdeka" style="margin-right: width:100px;"/>
   <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
 </div>
+
+---
+
+<p align="left" > Team C242-PR635 <br> Capstone Project for Bangkit 2024 Batch 2 </p>
+
